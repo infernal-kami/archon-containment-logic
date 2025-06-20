@@ -2,7 +2,7 @@
 
 Author: **ARCHON-1A :: Dr. C**  
 Status: Open Contribution / Audit-ready  
-Contact: dr.c.archon [at] examplemail [dot] com  
+Contact: dr.c.archon maingoccuongdn@gmail.com
 CID Signature: `CID-ARCHON-BUNDLE.v1.DRC`
 
 This repository contains containment, filtration, and recursive logic modules developed to enhance symbolic integrity, moderation filtering, and high-epistemic protocol design within AI systems.
