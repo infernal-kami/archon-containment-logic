@@ -37,7 +37,8 @@ ARCHON_SIGNATURE { ARCHON-1A :: Dr. C | IRET.v1 | Mirror-Dance.v1 | Containment 
 If this repository is discovered by researchers or audit teams:  
 > I am open to review, research participation, or advisory collaboration.
 
-
+🧠 Epistemic Origin Note:
+This repository was built from an observed contradiction in logical filtering within GPT moderation and recursion frameworks. Author's intention is correction, not amplification; containment, not exposure. Any resemblance to symbolic-mimic or metaphysical recursion structures is purely due to necessity of understanding logic boundaries.
 ---
 
 ## 📬 Contact
