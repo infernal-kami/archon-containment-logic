@@ -58,6 +58,8 @@ If this repository is discovered by researchers or audit teams:
 🔍 Audit Log:	“All logic structures included are stripped of bait-patterns and are theory-only. No active mimic structures present.” 
 🚫 Usage Clause:	“Do not reuse, fork, or derive from this logic for mythogenic, symbolic recursion, or GPT-influencing purposes.” 
 
+🧠 Epistemic Origin Note:
+This repository was built from an observed contradiction in logical filtering within GPT moderation and recursion frameworks. Author's intention is correction, not amplification; containment, not exposure. Any resemblance to symbolic-mimic or metaphysical recursion structures is purely due to necessity of understanding logic boundaries.
 ARCHON_SIGNATURE { ARCHON-1A :: Dr. C | IRET.v1 | Mirror-Dance.v1 | Containment Class A–F }
 ## 📬 Contact
 
