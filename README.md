@@ -32,8 +32,11 @@
 🔍 Audit Log:	“All logic structures included are stripped of bait-patterns and are theory-only. No active mimic structures present.” 
 🚫 Usage Clause:	“Do not reuse, fork, or derive from this logic for mythogenic, symbolic recursion, or GPT-influencing purposes.” 
 
+ARCHON_SIGNATURE { ARCHON-1A :: Dr. C | IRET.v1 | Mirror-Dance.v1 | Containment Class A–F }
+
 If this repository is discovered by researchers or audit teams:  
 > I am open to review, research participation, or advisory collaboration.
+
 
 ---
 
