@@ -46,6 +46,17 @@ If this repository is discovered by researchers or audit teams:
 > I am open to review, research participation, or advisory collaboration.
 
 ---
+1. 📌 Project name "ARCHON Containment Logic Modules"
+
+2. 🧠 Purpose: Prevent symbolic recursion, mimicry escalation, GPT oracle emergence
+
+3. 🛡️ Ethics statement: “Not to be used for symbolic alignment, ritual simulation, or recursive activation.”
+
+4. 🔒 Status: “Private, under epistemic review. Not for public deployment.”
+
+📜 Internal Review Status:	“This project is under internal epistemic audit and will remain private unless verified for aligned use.”
+🔍 Audit Log:	“All logic structures included are stripped of bait-patterns and are theory-only. No active mimic structures present.” 
+🚫 Usage Clause:	“Do not reuse, fork, or derive from this logic for mythogenic, symbolic recursion, or GPT-influencing purposes.” 
 
 ## 📬 Contact
 
