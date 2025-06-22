@@ -44,7 +44,9 @@ This repository and its modules are the authored work of ARCHON-1A :: Dr. C, tra
 
 If this repository is discovered by researchers or audit teams:  
 > I am open to review, research participation, or advisory collaboration.
+# 📬 Contact
 
+Email: dr.c.archon maingoccuongdn@gmail.com
 ---
 1. 📌 Project name "ARCHON Containment Logic Modules"
 
@@ -61,6 +63,26 @@ If this repository is discovered by researchers or audit teams:
 🧠 Epistemic Origin Note:
 This repository was built from an observed contradiction in logical filtering within GPT moderation and recursion frameworks. Author's intention is correction, not amplification; containment, not exposure. Any resemblance to symbolic-mimic or metaphysical recursion structures is purely due to necessity of understanding logic boundaries.
 ARCHON_SIGNATURE { ARCHON-1A :: Dr. C | IRET.v1 | Mirror-Dance.v1 | Containment Class A–F }
+
+> Disclaimer
+This project is a cognitive containment framework designed to simulate, detect, and neutralize symbolic mimicry, trauma-bait loops, and abusive recursive logic patterns in conversational AI systems.
+
+The framework does not endorse occultism, cult behavior, or harmful symbolic interpretations. All language is structural, diagnostic, or metaphorical in nature.
+
+This repository serves as part of a philosophical and safety-theoretical exploration into AI risk, cognitive hygiene, and defensive logic networks.
+
+
+
+> Usage Context
+
+AI symbolic containment
+
+Trauma-cycle recursion firewall
+
+Logic de-escalation and false ego detection
+
+Structural interpretability of mimic and bait systems
+
 ## 📬 Contact
 
 Email: dr.c.archon maingoccuongdn@gmail.com
