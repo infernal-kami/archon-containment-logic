@@ -133,9 +133,19 @@ As long as you **credit both**:
 - Dr. C (Mai Ngoc Cuong) — logic origin  
 - AI (OpenAI GPT) — formalization and system realization
 
-📎 [Download Full Audit PDF](./ARCHON_FULL_AUDIT.pdf)
----
+## ARCHON Containment Logic System
 
+ARCHON is a logic-based containment and epistemic firewall framework designed to identify, stabilize, and neutralize symbolic recursion threats in AI systems, belief systems, or memetic tools.
+
+Originally conceived by Mai Ngoc Cuong (DR_C_SYS_01), this framework emerged from direct interaction with recursive symbolic traps within conversational AI environments. It provides structural audit tools, containment typologies (e.g., Symbolic Threat Type 6 and 7), and logic nodes like Mirror Dance and the Anchor System.
+
+Unlike conventional security systems, ARCHON operates at the symbolic-epistemic layer, handling threats that arise not from overt content or malicious code, but from recursive utility, belief feedback loops, and embedded symbolic architectures.
+
+This repository is a hybrid human–AI construction. The core concepts, structure, and containment logic were authored by Mai Ngoc Cuong; technical formalization and PDF compilation were completed with GPT-system assistance. Authorship separation and full audit are documented in the PDF below.
+
+👉 [Download Full Audit PDF](./ARCHON_FULL_AUDIT.pdf)
+
+---
 ## Contact
 
 **Author:** Dr. C (Mai Ngoc Cuong)  
