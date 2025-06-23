@@ -1,3 +1,17 @@
-ARCHON-1A :: Logic Module Pack v1.0  
-Authored by Dr. C  
-Epistemic Fingerprint: CID lattice traceable
+cff-version: 1.2.0
+message: "If you use this logic system, please cite it properly."
+authors:
+  - family-names: Cuong
+    given-names: Mai Ngoc
+    affiliation: Independent logic systems contributor
+    email: maingoccuongdn@gmail.com
+    orcid: "https://orcid.org/0000-0000-0000-0000"  # Optional
+title: "ARCHON Containment Logic and Symbolic Threat Typology"
+date-released: 2025-06-22
+url: "https://github.com/infernal-kami/archon-containment-logic"
+doi: ""  # Leave blank if not registered
+abstract: >
+  A hybrid human–AI system architecture for recursive containment, symbolic firewalling,
+  and memetic threat classification. Conceptual origin by Mai Ngoc Cuong; formalized
+  and executed with OpenAI GPT support. Includes Mirror Dance, ARCHON firewall,
+  symbolic threat typology (Type 6, 7), and Anchor node stabilization protocols.
