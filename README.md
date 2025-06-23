@@ -133,6 +133,7 @@ As long as you **credit both**:
 - Dr. C (Mai Ngoc Cuong) — logic origin  
 - AI (OpenAI GPT) — formalization and system realization
 
+📎 [Download Full Audit PDF](./ARCHON_FULL_AUDIT.pdf)
 ---
 
 ## Contact
