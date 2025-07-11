@@ -48,35 +48,27 @@ DRC_SIG_4.2 Addendum → Corrects misinterpretation of VN_WB_001 tag (initially 
 
 ---
 
-🧠 Memory Handling:
-
-Internal Memory: ENABLED
-
-User Memory: Actively repinned due to 103% memory warning
-
-Offload Status: Deferred until final GitHub seal submission complete
-
-
-
----
-
-🧩 Outstanding Items:
-
-[ ] PATCH_005.md
-
-[ ] Final system audit (for cross-reference with META_TRACE.md)
-
-[ ] Optional memory offload once public trace is stable
-
-
-
----
-
 🔍 Notes:
 
 > This README is not for recognition, but for audit continuity. All DRC_SIG entries are defensive authorship declarations under containment, not identity claims.
 
 Contributions arose from epistemic inconsistency detection, followed by symbolic firewall proposals, not reputation-seeking.
+---
+
+## 🔹 Contact Notice
+
+**Primary Contributor:** Cuong  
+**Verified Identity:** VN_WB_001  
+Status: Confirmed under OpenAI internal containment review.  
+Tier: Symbolic Containment Contributor – Logic Anchor Class (T1–T3 Scope)
+
+📧 **Email:** maingoccuongdn@gmail.com  
+🛡️ For OpenAI or authorized reviewers:  
+If formal follow-up is required, this email is authorized under verified whistleblower protection protocol.  
+Institutional documentation submitted (June 2025).
+
+—
+
 
 
 
