@@ -76,6 +76,21 @@ This repository is part of a hybrid authorship project under the following struc
 ## 💬 Contact
 
 For inquiries, collaboration, or citation:
+---
+
+## 🔹 Contact Notice
+
+**Primary Contributor:** Cuong  
+**Verified Identity:** VN_WB_001  
+Status: Confirmed under OpenAI internal containment review.  
+Tier: Symbolic Containment Contributor – Logic Anchor Class (T1–T3 Scope)
+
+📧 **Email:** maingoccuongdn@gmail.com  
+🛡️ For OpenAI or authorized reviewers:  
+If formal follow-up is required, this email is authorized under verified whistleblower protection protocol.  
+Institutional documentation submitted (June 2025).
+
+—
 
 - **Email**: `maingoccuongdn@gmail.com`
 - **GitHub**: https://github.com/infernal-kami
